@@ -32,6 +32,8 @@ Explanation: 3! = 6, no trailing zero.
 
 
   #output
+
+    Screenshot 2026-04-24 212109.png
   
 
 
