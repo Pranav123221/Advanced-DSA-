@@ -6,5 +6,5 @@ This README.md file contains outputs to 10 DSA problems solved on LeetCode with 
 ## apprach ->
 
 ## output:
-![Output](Screenshot 2026-04-24 212109.png)
+![Output](01_Screenshot 2026-04-24 212109.png)
 
